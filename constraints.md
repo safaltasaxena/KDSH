@@ -107,4 +107,15 @@ To maintain robustness and interpretability, we explicitly do not model:
 
 These elements are either unstable, ambiguous, or not mechanically testable.
 
+----------------------------------------
 
+## Sufficiency Argument
+
+We argue that these constraint types are sufficient because any narrative inconsistency must manifest as either:
+(a) an impossible action,
+(b) a violation of a stable belief or trait,
+(c) a contradiction of an irreversible event, or
+(d) a conflict in long-term relationships.
+
+-(a) and (c) → immediate 0 (hard fail)
+-(b) and (d) → accumulate score, if above threshold → 0
