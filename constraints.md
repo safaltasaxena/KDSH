@@ -117,6 +117,5 @@ We argue that these constraint types are sufficient because any narrative incons
 (c) a contradiction of an irreversible event, or
 (d) a conflict in long-term relationships.
 
--(a) and (c) → immediate 0 (hard fail)
-
+-(a) and (c) → immediate 0 (hard fail)/t
 -(b) and (d) → accumulate score, if above threshold → 0
