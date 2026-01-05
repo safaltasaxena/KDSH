@@ -118,4 +118,5 @@ We argue that these constraint types are sufficient because any narrative incons
 (d) a conflict in long-term relationships.
 
 -(a) and (c) → immediate 0 (hard fail)
+
 -(b) and (d) → accumulate score, if above threshold → 0
