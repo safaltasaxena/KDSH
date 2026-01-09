@@ -1,3 +1,0 @@
-{"constraints":{"type":"capability","entity":"MAIN_CHARACTER","value":"can fight","confidence":0.9,"chunk_id":2},"diff":1,"time":1767699737712}
-{"constraints":{"type":"event","entity":"MAIN_CHARACTER","value":"betrayed ally","confidence":1.0,"chunk_id":3},"diff":1,"time":1767699737712}
-{"constraints":{"type":"belief","entity":"MAIN_CHARACTER","value":"distrusts authority","confidence":0.7,"chunk_id":1},"diff":1,"time":1767699737712}
