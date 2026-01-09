@@ -1,0 +1,169 @@
+{
+  "46": [
+    {
+      "type": "capability",
+      "value": "skilled survivor",
+      "confidence": 0.6
+    }
+  ],
+  "137": [],
+  "74": [
+    {
+      "type": "capability",
+      "value": "can fight",
+      "confidence": 0.9
+    }
+  ],
+  "109": [],
+  "104": [
+    {
+      "type": "belief",
+      "value": "trusts authority",
+      "confidence": 0.8,
+      "scope": "lifelong"
+    },
+    {
+      "type": "belief",
+      "value": "distrusts authority",
+      "confidence": 0.7,
+      "scope": "lifelong"
+    }
+  ],
+  "35": [],
+  "18": [],
+  "31": [
+    {
+      "type": "capability",
+      "value": "skilled survivor",
+      "confidence": 0.6
+    }
+  ],
+  "68": [],
+  "9": [],
+  "84": [],
+  "83": [],
+  "134": [],
+  "88": [],
+  "67": [],
+  "112": [],
+  "79": [],
+  "55": [],
+  "12": [],
+  "13": [],
+  "102": [],
+  "92": [],
+  "1": [],
+  "11": [],
+  "65": [],
+  "107": [
+    {
+      "type": "event",
+      "value": "withdrew from politics",
+      "confidence": 1.0
+    }
+  ],
+  "66": [],
+  "89": [],
+  "34": [],
+  "99": [
+    {
+      "type": "capability",
+      "value": "skilled survivor",
+      "confidence": 0.6
+    }
+  ],
+  "123": [],
+  "116": [],
+  "43": [],
+  "108": [],
+  "128": [],
+  "29": [],
+  "69": [],
+  "50": [],
+  "5": [],
+  "39": [],
+  "19": [
+    {
+      "type": "capability",
+      "value": "skilled survivor",
+      "confidence": 0.6
+    }
+  ],
+  "113": [],
+  "139": [],
+  "71": [],
+  "26": [
+    {
+      "type": "belief",
+      "value": "trusts authority",
+      "confidence": 0.8,
+      "scope": "lifelong"
+    },
+    {
+      "type": "belief",
+      "value": "distrusts authority",
+      "confidence": 0.7,
+      "scope": "lifelong"
+    }
+  ],
+  "117": [],
+  "6": [],
+  "76": [],
+  "17": [],
+  "20": [],
+  "10": [],
+  "122": [],
+  "62": [],
+  "36": [],
+  "73": [],
+  "98": [],
+  "25": [],
+  "120": [],
+  "105": [],
+  "57": [],
+  "106": [],
+  "118": [],
+  "126": [],
+  "4": [],
+  "125": [],
+  "40": [
+    {
+      "type": "belief",
+      "value": "distrusts authority",
+      "confidence": 0.7,
+      "scope": "lifelong"
+    }
+  ],
+  "96": [],
+  "45": [],
+  "54": [],
+  "8": [
+    {
+      "type": "capability",
+      "value": "skilled survivor",
+      "confidence": 0.6
+    }
+  ],
+  "32": [],
+  "14": [],
+  "63": [
+    {
+      "type": "capability",
+      "value": "skilled survivor",
+      "confidence": 0.6
+    }
+  ],
+  "41": [],
+  "23": [],
+  "90": [
+    {
+      "type": "capability",
+      "value": "skilled survivor",
+      "confidence": 0.6
+    }
+  ],
+  "100": [],
+  "138": [],
+  "130": [],
+  "48": []
+}
